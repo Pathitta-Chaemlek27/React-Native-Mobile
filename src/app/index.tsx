@@ -12,6 +12,7 @@ export default function index() {
       <Link href="/greet" style={styles.link}>3. Greet (Textinput)</Link>
       <Link href="/student" style={styles.link}>4. Student List (FlatList)</Link>
       <Link href="/students" style={styles.link}>5. Students จาก API</Link>
+      <Link href="/profile" style={styles.link}>6. Profile</Link>
     </View>
   )
 }
